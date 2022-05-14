@@ -1,6 +1,6 @@
 ![Hello, I'm Jenny Banner](https://i.imgur.com/hTrI8AF.png?1)
 
-<h1 align="center">Hello 👋, I'm Jennifer Spadoni</h1>
+<h1 align="center">Hello 👋, I'm Jenny Spadoni</h1>
 <h3 align="center">A travel and nature obsessed full-stack developer from the Pacific Northwest</h3>
 
 - 🔭 I’m currently working on **Freelance Projects & Open Source**
